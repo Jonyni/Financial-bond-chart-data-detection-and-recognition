@@ -12,6 +12,8 @@
   * 索引文件为train.txt和test.txt,位置在根目录下。索引格式如图：<br><br>
 ![image](./imageforreadme/索引格式.png)<br>
 
+* 预测集在image.zip中。
+
 依赖包
 * 所有需要的依赖包都在requirements.txt文件中
 
@@ -21,7 +23,7 @@
 * 运行train.py文件，生成的模型文件会保存在根目录下的model文件中
 
 模型预测
-* 运行reference.py文件，生成的结果集会在
+* 运行reference.py文件，生成的结果集会在根目录下的image_info_1000.txt文件中。注意：data.txt是真实的结果集。
 
 
 
