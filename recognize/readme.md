@@ -23,6 +23,6 @@
 * 运行train.py文件，生成的模型文件会保存在根目录下的model文件中
 
 模型预测
-* 运行reference.py文件，生成的结果集会在根目录下的image_info_A_1000.txt文件中。注意：data.txt是真实的结果集，还可以运行py文件来检测预测的结果集的正确度。
+* 运行reference.py文件，生成的结果集会在根目录下的image_info_A_1000.txt文件中。注意：data.txt是真实的结果集，还可以运行evaluate.py文件来检测预测的结果集的正确度。
 
 
